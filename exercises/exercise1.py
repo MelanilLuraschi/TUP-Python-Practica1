@@ -9,7 +9,7 @@ Restricción: Usar el operador de multiplicación
 lado_cuadrado = 5
 
 # COMPLETAR - INICIO
-area_cuadrado = 5*5
+area_cuadrado = lado_cuadrado * lado_cuadrado
 # COMPLETAR - FIN
 
 assert area_cuadrado == 25
@@ -50,7 +50,7 @@ precio = 3.74
 presupuesto_disponible = 10
 
 # COMPLETAR - INICIO
-cantidad_a_comprar = 2
+
 # COMPLETAR - FIN
 
 assert cantidad_a_comprar == 2
@@ -64,7 +64,7 @@ Restricción: Usar el operador módulo.
 numero_incalculable = 2 ** 54 - 1
 
 # COMPLETAR - INICIO
-es_divisible_por_siete = 1
+
 # COMPLETAR - FIN
 
 assert es_divisible_por_siete
